@@ -1,0 +1,11 @@
+# 生成的候选清单与音频（体积大，不入库）
+bgm-picks/
+*.mp3
+
+# Node
+node_modules/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
